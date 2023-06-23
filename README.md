@@ -8,6 +8,9 @@ This is a simple Connect Four game written in a C# Console Application for fun.
 
 # Controls
 D - Move Right
+
 A - Move Left
+
 Space - Place Piece
+
 Press Enter to Restart
