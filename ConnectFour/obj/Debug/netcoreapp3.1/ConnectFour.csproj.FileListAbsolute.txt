@@ -1,0 +1,14 @@
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.exe
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.deps.json
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.json
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.dev.json
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.csproj.AssemblyReference.cache
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfo.cs
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\test0\source\repos\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.genruntimeconfig.cache
